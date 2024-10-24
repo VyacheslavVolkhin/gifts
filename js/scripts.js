@@ -1,5 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
 
+
+
 	//js popup wrap
 	const togglePopupButtons = document.querySelectorAll('.js-btn-popup-toggle')
 	const closePopupButtons = document.querySelectorAll('.js-btn-popup-close')
